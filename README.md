@@ -20,3 +20,6 @@ No errors or warnings were found.
 ## Project Status
 
 The website was tested and published using GitHub Pages.
+## Final Notes
+
+The website was created and tested using HTML5 and GitHub Pages.

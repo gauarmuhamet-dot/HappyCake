@@ -17,3 +17,6 @@ The website provides information about cakes, prices, bakery details and an orde
 ## Validation
 All HTML files were tested using W3C Nu HTML Checker.
 No errors or warnings were found.
+## Project Status
+
+The website was tested and published using GitHub Pages.
